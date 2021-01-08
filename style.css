@@ -1,0 +1,42 @@
+body{
+background-image: url(hatter.jpg);
+}
+.all{
+margin-left: 270px;
+height: auto;
+width: 680px;
+background-image: url(fejlec.jpg);
+background-size: 100%;
+background-repeat: no-repeat;
+background-position: top;
+}
+.cim{
+margin-top: 0px;
+height: 80px;
+text-align: center;
+}
+
+.jdiv{
+background-image: url(tartalomkep.jpg);
+background-position-y: 0px;
+background-position-x: 225px;
+background-repeat: no-repeat;
+background-color: #FFFFFF;
+color: #484848;
+width: 525px;
+height: 100%;
+}
+.ball{
+background-color: #E8E8E8;
+background-image: url(menukep.jpg);
+background-size: 100%;
+background-repeat: no-repeat;
+background-position: bottom;
+color: #800000;
+width: 150px;
+vertical-align: initial;
+height: 100%;
+}
+.kisbal{
+text-align: center;
+}
